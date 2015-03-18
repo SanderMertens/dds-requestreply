@@ -1,5 +1,5 @@
 # dds-requestreply
-A request-reply example using vanilla DDS
+A request-reply example using vanilla OMG DDS
 
 ## Description
 A server and a client process exchanging one request and a reply. Note that DDS is not a client-server technology but rather acts like a realtime distributed database. To 'emulate' request reply, this example uses a request & reply topic.
