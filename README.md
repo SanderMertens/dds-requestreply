@@ -15,5 +15,6 @@ Run the following commands:
 ```
 Output:
 ```
-Sample received: id=0, value='Hello World'
+ >> request: 0, 'Hello'
+ >> reply: 0, 'World'
 ```
